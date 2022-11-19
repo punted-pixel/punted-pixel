@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrew @punted-pixel
+- 👋 Hi, I’m @punted-pixel
 - 👀 I’m interested in ... Fullstack development
 - 🌱 I’m currently learning ... AngularJS, React
 - 💞️ I’m looking to collaborate on ...
